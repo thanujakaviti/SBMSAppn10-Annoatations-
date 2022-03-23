@@ -12,8 +12,5 @@ public class D {
 	void m4() {
 		System.out.println(" D :: m4");
 	}
-	@Override
-	public String toString() {
-		return "D [ins=" + ins + "]";
-	}
+	
 }
