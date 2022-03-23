@@ -5,8 +5,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public class D {
-	@Autowired
-	private Institute ins;
+	
 	public D() {
 		System.err.println(" D :: Constructor");
 	}
